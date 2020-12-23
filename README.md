@@ -1,4 +1,4 @@
-# freecodecamp-Suduko-Solver
+# freecodecamp-Sudoku-Solver
 
 **freeCodeCamp** - Quality Assurance 4: Sudoku Solver
 ------
